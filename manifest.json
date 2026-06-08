@@ -1,0 +1,20 @@
+{
+  "name": "병리학 II 예상문제 100선",
+  "short_name": "병리학II 퀴즈",
+  "description": "한의학 병리학 II 臟腑辨證 기출 기반 예상문제 100선",
+  "lang": "ko",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#0f1220",
+  "theme_color": "#0f1220",
+  "icons": [
+    {
+      "src": "icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
